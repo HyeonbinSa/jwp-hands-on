@@ -19,5 +19,5 @@
   - HTTP Response를 압축할 수 있다. Spring에서는 application.yml 파일을 통해 적용할 수 있다. 
 - [x] ETag/If-None-Match 적용하기
   - [x] GreetingControllerTest 클래스의 testETag() 통과
-- [ ] 캐시 무효화(Cache Busting)
-  - [ ] GreetingControllerTest 클래스의 testCacheBustingOfStaticResources() 통과
+- [x] 캐시 무효화(Cache Busting)
+  - [x] GreetingControllerTest 클래스의 testCacheBustingOfStaticResources() 통과

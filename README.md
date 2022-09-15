@@ -33,4 +33,14 @@
 - [ ] WAS 스레드 설정
   - [ ] application.yml 파일 확인
   - [ ] 각 설정의 의미 파악
-  - 
+
+### Servlet
+- [ ] 서블릿 학습 테스트
+  - [ ] SharedCounterServlet vs. LocalCounterServlet
+  - [ ] ServletTest 통과
+  - [ ] init, service, destroy 메서드 실행 시점 확인
+  - [ ] ServletApplication 실행 시키고 localhost:8080/shared-counter 접속 확인
+- [ ] 필터 학습 테스트
+  - [ ] FilterTest 통과
+  - [ ] doFilter() 실행 시점 파악
+    - 인코딩 설정에 대한 학습 

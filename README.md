@@ -21,3 +21,16 @@
   - [x] GreetingControllerTest 클래스의 testETag() 통과
 - [x] 캐시 무효화(Cache Busting)
   - [x] GreetingControllerTest 클래스의 testCacheBustingOfStaticResources() 통과
+
+### Thread
+- [x] 스레드 이해하기
+  - [x] ThreadTest
+  - [x] SynchronizationTest
+  - [x] ThreadPoolsTest
+- [ ] 동시성 이슈 확인하기
+  - 스레드 사용 시 발생할 수 있는 이슈 학습
+  - ConcurrencyTest 설명 학습
+- [ ] WAS 스레드 설정
+  - [ ] application.yml 파일 확인
+  - [ ] 각 설정의 의미 파악
+  - 

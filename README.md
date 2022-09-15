@@ -26,7 +26,7 @@
 - [x] 스레드 이해하기
   - [x] ThreadTest
   - [x] SynchronizationTest
-  - [ ] ThreadPoolsTest
+  - [x] ThreadPoolsTest
 - [ ] 동시성 이슈 확인하기
   - 스레드 사용 시 발생할 수 있는 이슈 학습
   - ConcurrencyTest 설명 학습
